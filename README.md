@@ -2,6 +2,8 @@
 
 [Buy me a ☕️ if you like my projects :)](https://lynx.pink/buymeacoffee)
 
+[Full installation guide for Mac Mini Late 2012](https://medium.com/@andv/how-to-install-big-sur-to-mac-mini-late-2012-9d674b563174)
+
 ----------
 
 ## What's this?
