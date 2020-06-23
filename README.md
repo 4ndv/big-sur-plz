@@ -12,6 +12,15 @@ Follow this topic on MacRumors for more info: [https://forums.macrumors.com/thre
 
 Please report any issues in the github issues section.
 
+This script:
+
+- Checks if SIP disabled
+- Checks if FileVault disabled (will remove in the future if error 66 not caused by FileVault), this check can be skipped
+- Disables library validation
+- Adds -no_compat_check to the boot-args
+- Automatically downloads and extracts patcher
+- Runs installer with patcher, with a little bit different, but more stable method
+
 ## How to run?
 
 Clone repository:
