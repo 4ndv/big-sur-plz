@@ -93,7 +93,7 @@ end
 puts 'Running installer'
 
 installer = fork do
-  exec "/bin/bash -c 'DYLD_INSERT_LIBRARIES=#{File.expand_path('Hax.dylib')} #{assistant_path.gsub(/ /, '\ ')}'"
+  exec "/bin/bash -c 'DYLD_INSERT_LIBRARIES=#{File.expand_path('Hax.dylib').gsub(/ /, '\ ')} #{assistant_path.gsub(/ /, '\ ')}'"
 end
 
 puts 'Detaching installer'
