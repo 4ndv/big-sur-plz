@@ -12,7 +12,9 @@
 
 It's a simple script, that automates some of the actions, required to setup Big Sur on unsupported macs.
 
-Follow this topic on MacRumors for more info: [https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/](https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/)
+Here's my [full installation guide for Catalina-capable Macs](https://medium.com/@andv/how-to-install-big-sur-to-mac-mini-late-2012-9d674b563174).
+
+Also, follow this topic on MacRumors for more info: [https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/](https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/).
 
 Please report any issues in the github issues section.
 
