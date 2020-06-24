@@ -1,8 +1,10 @@
 # Big Sur, Please
 
-[Buy me a ☕️ if you like my projects :)](https://lynx.pink/buymeacoffee)
+[Full installation guide for Catalina-capable Macs](https://medium.com/@andv/how-to-install-big-sur-to-mac-mini-late-2012-9d674b563174)
 
-[Full installation guide for Mac Mini Late 2012](https://medium.com/@andv/how-to-install-big-sur-to-mac-mini-late-2012-9d674b563174)
+[All the information about Big Sur on unsupported Macs, structured in one place](https://lynx.pink/big-sur-unsupported-macs-tldr/)
+
+[Buy me a ☕️ if you like my projects :)](https://lynx.pink/buymeacoffee)
 
 ----------
 
