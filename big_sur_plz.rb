@@ -90,10 +90,14 @@ else
   `unzip patcher.zip`
 end
 
+puts 'Applying patcher'
+
+`launchctl setenv DYLD_INSERT_LIBRARIES #{File.expand_path('Hax.dylib').gsub(/ /, '\ ')}`
+
 puts 'Running installer'
 
 installer = fork do
-  exec "/bin/bash -c 'DYLD_INSERT_LIBRARIES=#{File.expand_path('Hax.dylib').gsub(/ /, '\ ')} #{assistant_path.gsub(/ /, '\ ')}'"
+  exec assistant_path.gsub(/ /, '\ ')
 end
 
 puts 'Detaching installer'
