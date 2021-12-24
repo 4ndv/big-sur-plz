@@ -1,3 +1,7 @@
+# READ ME FIRST
+
+This repository here is mostly for the historic purposes. Please use [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)!
+
 # Big Sur, Please
 
 [Full installation guide for Catalina-capable Macs](https://medium.com/@andv/how-to-install-big-sur-to-mac-mini-late-2012-9d674b563174)
